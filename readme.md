@@ -4,7 +4,7 @@ This package is a simple command line interface helper , you can ask a question 
 
 **How can i install?**
 
-    npm install simplecli
+    npm install @xncn/simplecli
 
 **Let's do a simple example**
 ```javascript
@@ -34,9 +34,9 @@ Avaible colors : blue,green,red,yellow,magenta,cyan,white,crimson
 And you can customize text weight and underline style.
 ```json
 {
-   		...
+        ...
         bold: true,
-        //underline: true
+        underline: true,
 },
 ```
 ![](https://lh3.googleusercontent.com/GqaOc0sTOIxOnuo566gKN8aaHkFkJglxagAviCMesVuK4oxdlJbUUrFjuTgAy3OteAOKlLnhwU-utFu9mVWXQ58CAmJxeR7tSGYFnXFRYyKuMZNyz0JNiPhUR0y4sJrSOalp00Cz9-o-fpBvTHp0hef_Ru9SXpecoRR5KYt4YO0QnCGApQn6YG04zj72ZxSmmLP9pjHmhNJVzzy0yfoYDG_vtTSE-vzTcTCn6aoqQJMchALnlimKO0Bs195L-bJ5g0V20URmKCQsgUzg8Qd3eK2ho4Gtyr_LMp3fCTZTOEfbaEUfx5m38xzetVk3locqGptaaZJ5lmwJZXD6cG9FeQ5dBrx8DKm81ZmAIA80l69rw94DJ2i_0N4-zLdL9YzxXUJoyRW1mIYSG-k784ySbys8rUkGJldc-DrYvcJnvONeBDidri2sGuF46wYywV84krCV_lbPqCA3AbMdWobCWknQ69SzN9wb1uFoaYQYioNHfaWEl7fMYKTJZ_tlfSMOKYLhGZ8TAgVKMiwrT_Mm9uMVg7EMXYTj1S5_Jvvti7N6lkACrKUSy9SLWabu4_SZWeFgmzapgR5tXULekEL88CY_30CdRxzo2tAkiYxSG1PGYwHj0P470XEUyPQIXvkJrQqWt2Tx6cHCKlgxEaEVeyjdElO72zP8IrqWrrAbOSZo4o0Hhacxyg=w1114-h150-no)
